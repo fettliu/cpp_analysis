@@ -26,4 +26,4 @@ catch (logic_error& e)
 
 
 
-[中文介绍]http://www.cnblogs.com/fyter/p/analysis-cpp-syntex-format.html
+[中文介绍](http://www.cnblogs.com/fyter/p/analysis-cpp-syntex-format.html)
